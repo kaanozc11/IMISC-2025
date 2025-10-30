@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 18, 2025
 
-@author: Kaan, Elif :)
+
 """
 
 import numpy as np
@@ -119,7 +119,7 @@ df["Economic Category"].value_counts()
 
 # Kümeleme sonucunda elde edilen kümelerin adlandırılması
 # k=2 için, Advanced ekonomik kategorisinde olanlar 1, Emerging olanlar 0 olarak kümelenmiş
-# Aferin Kaancığım:) Çok doğru bir tespit!
+
 
 clstr_centers = kMeans_model.cluster_centers_
 # K-Ortalamalar Algoritamsından elde edilen kkümelerin görselleştirilmesi
@@ -511,6 +511,7 @@ df["Economic Category"].value_counts()
 
 
 """
+
 
 
 
